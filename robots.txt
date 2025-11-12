@@ -1,0 +1,7 @@
+# robots.txt for https://mathewsbasil.in/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://mathewsbasil.in/sitemap.xml
